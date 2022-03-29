@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  color: red;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
